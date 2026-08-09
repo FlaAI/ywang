@@ -42,17 +42,29 @@ My research interests include AI Security and Multimodal Large Language Models. 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2026.08 - Now*, Doctor of Philosophy in System Engineering, The Chinese University of Hong Kong. 
-- *2024.09 - 2026.07*, Master of Philosophy in Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou). 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2026.08 - Now*, Ph.D. in System Engineering, The Chinese University of Hong Kong. 
+- *2024.09 - 2026.07*, M.Phil. in Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou).
+- *2022.09 - 2023.10*, M.Sc. in Computer Science, The University of Hong Kong.
+- *2018.09 - 2022.07*, B.Eng. in Software Engineering, East China Normal University.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 🎖 Honors and Awards
+- *2026*, Postgraduate Studentship Award (48 months), The Chinese University of Hong Kong.
+- *2026*, Lizhi Innovative Talent Scholarship, The Hong Kong University of Science and Technology (Guangzhou).
+- *2025*, Second-Class Award, The 15th Guangdong-Hong Kong-Macao Conference on Image and Graphics.
+- *2024*, Postgraduate Studentship Award (24 months), The Hong Kong University of Science and Technology (Guangzhou).
+- *2022*, Excellent Graduate Award, East China Normal University.
+- *2022*, Excellent Bachelor's Degree Thesis Award, Software Engineering Institute, East China Normal University.
+- *2021*, People’s Choice Award, School of Computing Summer Workshop, National University of Singapore.
+- *2021*, Excellent Undergraduate Student, East China Normal University.
+- *2021*, Second-class Scholarship, East China Normal University.
+- *2020*, Excellent Undergraduate Student, East China Normal University.
+- *2020*, First-class Scholarship, East China Normal University.
+
+# 💬 Services
+- *2021.06*,
+- 
+
