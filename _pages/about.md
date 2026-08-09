@@ -27,9 +27,9 @@ My research interests include AI Security and Multimodal Large Language Models. 
 - *2026.07*: Graduated from HKUST(GZ)! My sincere thanks to everyone for all the help and support, especially to my respected supervisor, Prof. Liu. Will always miss the precious two years 😭
 - *2026.07*: One paper benchmarking text-to-audio-video accepted by ACMMM'26. Congratulations to Prof. Liu, Tianxin, and Wentao 🎉
 - *2026.05*: One paper on universal jailbreak of audio language models accepted by ICML'26. Many thanks to Prof. Liu, Prof. Wu, Yu, and Zi 🎉
+- *2026.03*: Been awarded the Lizhi Innovative Talent Scholarship! My great thanks to HKUST(GZ) Info HUB, Lizhi Group, and Prof. Liu 🙌
 - *2026.03*: One paper on accuracy-robustness trade-off in adversarial training accepted by CVPR'26 as Findings. Many thanks to Prof. Hu, Prof. Liu, Prof. Ye, and Zi 🎉
 - *2026.01*: One paper on adversarial fine-tuning of speech foundation models accepted by ICASSP'26. Many thanks to Prof. Liu and Prof. Wu 🎉
-- *2025.11*: One paper on time series forecasting accepted by AAAI'26. Congratulations to Ziyu 🎉
 
 
 # 📝 Publications 
@@ -63,7 +63,7 @@ My research interests include AI Security and Multimodal Large Language Models. 
 
 # 🎖 Honors and Awards
 - *2026*, Postgraduate Studentship Award (48 months), The Chinese University of Hong Kong.
-- *2026*, Lizhi Innovative Talent Scholarship, The Hong Kong University of Science and Technology (Guangzhou).
+- *2026*, Lizhi Innovative Talent Scholarship, The Hong Kong University of Science and Technology (Guangzhou) & Lizhi Group.
 - *2025*, Second-Class Award, The 15th Guangdong-Hong Kong-Macao Conference on Image and Graphics.
 - *2024*, Postgraduate Studentship Award (24 months), The Hong Kong University of Science and Technology (Guangzhou).
 - *2022*, Excellent Graduate Award, East China Normal University.
