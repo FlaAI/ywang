@@ -25,8 +25,8 @@ My research interests include AI Security and Multimodal Large Language Models. 
 # 🔥 News
 - *2026.08*: Reported for duty at CUHK! Let's write the new story together ⭐
 - *2026.07*: Graduated from HKUST(GZ)! My sincere thanks to everyone for all the help and support, especially to Prof. Liu. Will always miss the precious two years 😭
-- *2026.07*: One paper benchmarking physics in text-to-audio-video generation accepted by ACMMM'26. Congratulations to Prof. Liu, Tianxin, and Wentao 🎉
-- *2026.05*: One paper on universal jailbreak against audio language models accepted by ICML26. Many thanks to Prof. Liu, Prof. Wu, Yu and Zi 🎉
+- *2026.07*: One paper benchmarking text-to-audio-video generation accepted by ACMMM'26. Congratulations to Prof. Liu, Tianxin, and Wentao 🎉
+- *2026.05*: One paper on universal jailbreak of audio language models accepted by ICML'26. Many thanks to Prof. Liu, Prof. Wu, Yu, and Zi 🎉
 - *2026.03*: One paper on accuracy-robustness trade-off in adversarial training accepted by CVPR'26 as Findings. Many thanks to Prof. Hu, Prof. Liu, Prof. Ye, and Zi 🎉
 - *2026.01*: One paper on adversarial fine-tuning of speech foundation models accepted by ICASSP'26. Many thanks to Prof. Liu and Prof. Wu 🎉
 - *2025.11*: One paper on time series forecasting accepted by AAAI'26. Congratulations to Ziyu 🎉
