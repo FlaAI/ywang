@@ -69,6 +69,17 @@ My research interests include AI Security and Multimodal Large Language Models. 
 - *2020*, First-class Scholarship, East China Normal University.
 
 # 💬 Services
-- *2021.06*,
-- 
+- Conference Program Committee:
+  - AAAI Conference on Artificial Intelligence (AAAI): 2027, 2026, 2025
 
+- Conference Reviewer: 
+  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2026, 2025, 2024
+  - ACM International Conference on Multimedia (ACMMM): 2026
+  - IEEE/CVF International Conference on Computer Vision (ICCV): 2025
+  - European Conference on Computer Vision (ECCV): 2026
+  - British Machine Vision Conference (BMVC): 2026
+  - RSI Workshop @ International Conference on Learning Representations (ICLR): 2026
+
+-Journal Reviewer:
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - Neural Networks (NN)
