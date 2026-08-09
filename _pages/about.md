@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an MPhil student in AI under the supervision of [Prof. Li Liu](https://liliu-avril.github.io/) at [HKUST (GZ)](https://www.hkust-gz.edu.cn) and the co-supervision of [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) at [HKUST](https://hkust.edu.hk/). Previously, after getting my MSc CS degree from [HKU](https://www.hku.hk/), I used to work as a full-time research assistant at [Applied Security, Trust And Privacy Lab for Enterprise](https://www.astaple.com/) of [PolyU](https://www.polyu.edu.hk/) under the supervision of [Prof. Haibo Hu](https://haibohu.org/). During my undergraduate time at [ECNU](https://english.ecnu.edu.cn/), I also participated in part-time research at [Shanghai Key Laboratory of Trustworthy Computing](https://tclab.ecnu.edu.cn/) under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao). It is also my great pleasure to work with close co-authors [Zi Liang](https://liangzid.github.io/research.html), [Ziyu Zhou](https://zhouziyu02.github.io/), [Weilin Lin](https://linweiii.github.io/), and [Nanjun Zhou](https://quantum-bitss.github.io/).
-{style="text-align: justify;"}
+I am currently a first-year PhD student in system engineering at [CUHK](https://www.cuhk.edu.hk/) under the supervision of [Prof. Xixin Wu](https://www1.se.cuhk.edu.hk/~wuxx/). Previously, I received an MPhil AI degree from [HKUST](https://hkust.edu.hk/), under the supervision of [Prof. Li Liu](https://liliu-avril.github.io/) and the co-supervision of [Prof. Yi R. (May) Fung](https://mayrfung.github.io/), plus an MSc CS degree from [HKU](https://www.hku.hk/). Between the two master's studies, I worked as an RA at [ASTAPLE](https://www.astaple.com/) of [PolyU](https://www.polyu.edu.hk/) with [Prof. Haibo Hu](https://haibohu.org/). I got my BEng degree in software engineering at [ECNU](https://english.ecnu.edu.cn/), where I began my research career under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao). It is also my great pleasure to work with close co-authors [Zi Liang](https://liangzid.github.io/research.html), [Ziyu Zhou](https://zhouziyu02.github.io/), [Yu Huang](https://hardenyu21.github.io/), [Weilin Lin](https://linweiii.github.io/), and [Nanjun Zhou](https://quantum-bitss.github.io/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include AI Security and Multimodal Large Language Models. I have 
 
 
 # 🔥 News
@@ -48,8 +47,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.08 - Now*, Doctor of Philosophy in System Engineering, The Chinese University of Hong Kong. 
+- *2024.09 - 2026.07*, Master of Philosophy in Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou). 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
