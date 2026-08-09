@@ -49,7 +49,11 @@ My research interests include AI Security and Multimodal Large Language Models. 
 - *2018.09 - 2022.07*, B.Eng. in Software Engineering, East China Normal University.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026.06 - 2026.08*, LLM Research Intern, [Bairong Intelligence](https://www.brgroup.com/?locale=en), Beijing.
+- *2026.03 - 2026.06*, MLLM Data Intern, [ByteDance Seed](https://seed.bytedance.com/en/), Beijing.
+- *2021.08 - 2021.11*, Research Assistant, [Applied Security, Trust And Privacy Lab for Enterprise](https://www.astaple.com/), The Hong Kong Polytechnic University, Hong Kong.
+- *2021.08 - 2021.11*, NLP Algorithm Intern, [Ping An Technology](https://tech.pingan.com/), Shanghai.
+- *2020.07 - 2020.08*, Software Development Intern, [Dareway Intelligent Technology](https://www.dareway.cn/#/), Jinan.
 
 # 🎖 Honors and Awards
 - *2026*, Postgraduate Studentship Award (48 months), The Chinese University of Hong Kong.
