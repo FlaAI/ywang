@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a first-year PhD student in system engineering at [CUHK](https://www.cuhk.edu.hk/) under the supervision of [Prof. Xixin Wu](https://www1.se.cuhk.edu.hk/~wuxx/). Previously, I received an MPhil AI degree from [HKUST](https://hkust.edu.hk/), under the supervision of [Prof. Li Liu](https://liliu-avril.github.io/) and the co-supervision of [Prof. Yi R. (May) Fung](https://mayrfung.github.io/), plus an MSc CS degree from [HKU](https://www.hku.hk/). Between the two master's studies, I worked as an RA at [ASTAPLE](https://www.astaple.com/) of [PolyU](https://www.polyu.edu.hk/) with [Prof. Haibo Hu](https://haibohu.org/). I got my BEng degree in software engineering at [ECNU](https://english.ecnu.edu.cn/), where I began my research career under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao). It is also my great pleasure to work with close co-authors [Zi Liang](https://liangzid.github.io/research.html) (PolyU), [Ziyu Zhou](https://zhouziyu02.github.io/) (HKUST), [Yu Huang](https://hardenyu21.github.io/) (CityU), [Weilin Lin](https://linweiii.github.io/) (HKUST(GZ)), and [Nanjun Zhou](https://quantum-bitss.github.io/) (ZJU).
 
-My research interests include AI Security and Multimodal Large Language Models. More specifically, for the former, I used to study adversarial attacks and defenses across time series classification and image classification, especially adversarial training upon vision foundation models like ResNet. 
+My research interests include AI Security and Multimodal Large Language Models. Specifically, I used to study adversarial attacks and defenses across time series classification, image classification, and speech recognition, notably adversarial training on traditional vision models like ResNet, as well as adversarial fine-tuning upon Transformer-based speech foundation models like OpenAI Whisper. Together with close co-authors, I have also dabbled in model extraction, backdoor, data poisoning, agent security, etc. Recently, I have been interested in MLLM post-training and inference-time security, especially regarding safety alignment and modality gap under multimodal inputs.
 
 
 # 🔥 News
@@ -27,7 +27,7 @@ My research interests include AI Security and Multimodal Large Language Models. 
 - *2026.07*: Graduated from HKUST(GZ)! My sincere thanks to everyone for all the help and support, especially to my respected supervisor, Prof. Liu. Will always miss the precious two years 😭
 - *2026.07*: One paper benchmarking text-to-audio-video accepted by ACMMM'26. Congratulations to Prof. Liu, Tianxin, and Wentao 🎉
 - *2026.05*: One paper on universal jailbreak of audio language models accepted by ICML'26. Many thanks to Prof. Liu, Prof. Wu, Yu, and Zi 🎉
-- *2026.03*: Been awarded the Lizhi Innovative Talent Scholarship! My great thanks to HKUST(GZ) Info HUB, Lizhi Group, and Prof. Liu 🙌
+- *2026.03*: Been awarded the Lizhi Innovative Talent Scholarship! My great thanks to HKUST(GZ) Info Hub, Lizhi Group, and Prof. Liu 🙌
 - *2026.03*: One paper on accuracy-robustness trade-off in adversarial training accepted by CVPR'26 as Findings. Many thanks to Prof. Hu, Prof. Liu, Prof. Ye, and Zi 🎉
 - *2026.01*: One paper on adversarial fine-tuning of speech foundation models accepted by ICASSP'26. Many thanks to Prof. Liu and Prof. Wu 🎉
 
