@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# ✨ Yeah, It's Me ~
+# ✨ About Me
 
 I am currently a first-year PhD student in system engineering at [CUHK](https://www.cuhk.edu.hk/) under the supervision of [Prof. Xixin Wu](https://www1.se.cuhk.edu.hk/~wuxx/). Previously, I received an MPhil AI degree from [HKUST](https://hkust.edu.hk/), under the supervision of [Prof. Li Liu](https://liliu-avril.github.io/) and the co-supervision of [Prof. Yi R. (May) Fung](https://mayrfung.github.io/), plus an MSc CS degree from [HKU](https://www.hku.hk/). Between the two master's studies, I worked as an RA at [ASTAPLE](https://www.astaple.com/) of [PolyU](https://www.polyu.edu.hk/) with [Prof. Haibo Hu](https://haibohu.org/). I got my BEng degree in software engineering at [ECNU](https://english.ecnu.edu.cn/), where I began my research career under the supervision of [Prof. Dehui Du](https://scholar.google.com/citations?user=9WHLtvoAAAAJ&hl=en&oi=ao). It is also my great pleasure to work with close co-authors [Zi Liang](https://liangzid.github.io/research.html) (PolyU), [Ziyu Zhou](https://zhouziyu02.github.io/) (HKUST), [Yu Huang](https://hardenyu21.github.io/) (CityU), [Weilin Lin](https://linweiii.github.io/) (HKUST(GZ)), and [Nanjun Zhou](https://quantum-bitss.github.io/) (ZJU).
 
@@ -36,6 +36,8 @@ My research interests include AI Security and Multimodal Large Language Models. 
 
 # 📝 Publications 
 
+## As 1st Author:
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,6 +49,8 @@ My research interests include AI Security and Multimodal Large Language Models. 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
+## As Co-Author:
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
