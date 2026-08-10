@@ -38,7 +38,7 @@ My research interests include AI Security and Multimodal Large Language Models. 
 
 ## As 1st Author:
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.1em;">ICML'26</div><img src='images/Image-ICML26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1em;">ICML'26</div><img src='images/Image-ICML26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](https://openreview.net/forum?id=FygaF16KNo)
@@ -47,7 +47,7 @@ My research interests include AI Security and Multimodal Large Language Models. 
 
 In *43rd International Conference on Machine Learning*, 2026.
 
-[[Project Page](https://flaai.github.io/AIA_page/)] &nbsp;&nbsp; [[Slides]()] &nbsp;&nbsp; [[Poster]()] &nbsp;&nbsp; [[Code](https://github.com/FlaAI/AIA)]
+[[Project Page](https://flaai.github.io/AIA_page/)] &nbsp;&nbsp; [[Slides](https://github.com/FlaAI/ywang/blob/main/files/Poster_ICML26.pptx)] &nbsp;&nbsp; [[Poster](https://github.com/FlaAI/ywang/blob/main/files/Poster_ICML26.pdf)] &nbsp;&nbsp; [[Code](https://github.com/FlaAI/AIA)]
 </div>
 </div>
 
