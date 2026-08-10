@@ -110,7 +110,7 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 - **[SMC'23 Oral]** [Meta Pattern Concern Score: A Novel Evaluation Measure with Human Values for Multi-classifiers](https://ieeexplore.ieee.org/abstract/document/10394380), **<u>Yanyun Wang</u>**, Dehui Du<sup>†</sup>, Yuanhao Liu. In *IEEE International Conference on Systems, Man, and Cybernetics*, 2023.
 
 
-## As Co-Author: 
+## As Co-Author:
 
 - **[Preprint]** <u>Adversarial Attacks on Deep OCR Systems</u>, Wenbo Sun, **<u>Yanyun Wang</u>**, Jiahao MA, Shuxin Zhuang, Rong Feng, Shiqin Tang, and Zi Liang<sup>†</sup>. 2026.
 
