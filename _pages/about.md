@@ -27,11 +27,11 @@ My research interests include AI Security and Multimodal Large Language Models. 
 # 🔥 News
 - *2026.08*: Reported for duty at CUHK! Let's write the new story together ⭐
 - *2026.07*: Graduated from HKUST(GZ)! My sincere thanks to everyone for all the help and support, especially to my respected supervisor, Prof. Liu. Will always miss the precious two years 😭
-- *2026.07*: One paper benchmarking text-to-audio-video accepted by ACMMM'26. Congratulations to Prof. Liu, Tianxin, and Wentao 🎉
+- *2026.07*: One paper benchmarking text-to-audio-video accepted by ACMMM'26 as Oral. Congratulations to Prof. Liu, Tianxin, and Wentao 🎉
 - *2026.05*: One paper on universal jailbreak of audio language models accepted by ICML'26. Many thanks to Prof. Liu, Prof. Wu, Yu, and Zi 🎉
 - *2026.03*: Been awarded the Lizhi Innovative Talent Scholarship! My great thanks to HKUST(GZ) Info Hub, Lizhi Group, and Prof. Liu 🙌
 - *2026.03*: One paper on accuracy-robustness trade-off in adversarial training accepted by CVPR'26 as Findings. Many thanks to Prof. Hu, Prof. Liu, Prof. Ye, and Zi 🎉
-- *2026.01*: One paper on adversarial fine-tuning of speech foundation models accepted by ICASSP'26. Many thanks to Prof. Liu and Prof. Wu 🎉
+- *2026.01*: One paper on adversarial fine-tuning of speech foundation models accepted by ICASSP'26 as Oral. Many thanks to Prof. Liu 🎉
 
 
 # 📝 Publications 
@@ -53,21 +53,21 @@ In *43rd International Conference on Machine Learning*, 2026.
 
 ## As Co-Author:
 
-- **[Preprint]** <u>Adversarial Attacks on Deep OCR Systems</u>, Wenbo Sun, **<u>Yanyun Wang</u>**, Jiahao MA, Shuxin Zhuang, Rong Feng, Shiqin Tang, and Zi Liang†. 2026.
+- **[Preprint]** <u>Adversarial Attacks on Deep OCR Systems</u>, Wenbo Sun, **<u>Yanyun Wang</u>**, Jiahao MA, Shuxin Zhuang, Rong Feng, Shiqin Tang, and Zi Liang<sup>†</sup>. 2026.
 
-- **[Preprint]** [Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection](https://arxiv.org/abs/2605.11442), Zi Liang, Ronghua Li, **<u>Yanyun Wang</u>**, Qingqing Ye, and Haibo Hu†. *Arxiv Preprint*, 2026.
+- **[Preprint]** [Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection](https://arxiv.org/abs/2605.11442), Zi Liang, Ronghua Li, **<u>Yanyun Wang</u>**, Qingqing Ye, and Haibo Hu<sup>†</sup>. *Arxiv Preprint*, 2026.
 
-- **[ACMMM'26 Oral]** [PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation](https://arxiv.org/abs/2512.23994), Tianxin Xie, Wentao Lei, Kai Jiang, Guanjie Huang, Pengfei Zhang, Chunhui Zhang, Fengji Ma, Haoyu He, Han Zhang, Jiangshan He, Jinting Wang, Linghan Fang, Lufei Gao, Orkesh Ablet, Peihua Zhang, Ruolin Hu, Shengyu Li, Weilin Lin, Xiaoyang Feng, Xinyue Yang, Yan Rong, **<u>Yanyun Wang</u>**, Zihang Shao, Zelin Zhao, Chenxing Li, Shan Yang, Wenfu Wang, Meng Yu, Dong Yu, and Li Liu†. In *34th ACM International Conference on Multimedia*, 2026.
+- **[ACMMM'26 Oral]** [PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation](https://arxiv.org/abs/2512.23994), Tianxin Xie, Wentao Lei, Kai Jiang, Guanjie Huang, Pengfei Zhang, Chunhui Zhang, Fengji Ma, Haoyu He, Han Zhang, Jiangshan He, Jinting Wang, Linghan Fang, Lufei Gao, Orkesh Ablet, Peihua Zhang, Ruolin Hu, Shengyu Li, Weilin Lin, Xiaoyang Feng, Xinyue Yang, Yan Rong, **<u>Yanyun Wang</u>**, Zihang Shao, Zelin Zhao, Chenxing Li, Shan Yang, Wenfu Wang, Meng Yu, Dong Yu, and Li Liu<sup>†</sup>. In *34th ACM International Conference on Multimedia*, 2026.
 
-- **[AAAI'26]** [Revitalizing Canonical Pre-Alignment for Irregular Multivariate Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/40149), Ziyu Zhou, Yiming Huang, **<u>Yanyun Wang</u>**, Yuankai Wu, James Kwok, and Yuxuan Liang†. In *40th AAAI Conference on Artificial Intelligence*, 2026.
+- **[AAAI'26]** [Revitalizing Canonical Pre-Alignment for Irregular Multivariate Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/40149), Ziyu Zhou, Yiming Huang, **<u>Yanyun Wang</u>**, Yuankai Wu, James Kwok, and Yuxuan Liang<sup>†</sup>. In *40th AAAI Conference on Artificial Intelligence*, 2026.
 
-- **[NeurIPS'25 Spotlight]** [Virus Infection Attack on LLMs: Your Poisoning Can Spread "VIA" Synthetic Data](https://proceedings.neurips.cc/paper_files/paper/2025/hash/e6c5195dac675f03d0fcf3955bcdd3c9-Abstract-Conference.html), Zi Liang, Qingqing Ye, Xuan Liu, **<u>Yanyun Wang</u>**, Jianliang Xu, and Haibo Hu†. In *39th Annual Conference on Neural Information Processing Systems*, 2025.
+- **[NeurIPS'25 Spotlight]** [Virus Infection Attack on LLMs: Your Poisoning Can Spread "VIA" Synthetic Data](https://proceedings.neurips.cc/paper_files/paper/2025/hash/e6c5195dac675f03d0fcf3955bcdd3c9-Abstract-Conference.html), Zi Liang, Qingqing Ye, Xuan Liu, **<u>Yanyun Wang</u>**, Jianliang Xu, and Haibo Hu<sup>†</sup>. In *39th Annual Conference on Neural Information Processing Systems*, 2025.
 
-- **[NeurIPS'25]** [BackdoorDM: A Comprehensive Benchmark for Backdoor Learning in Diffusion Model](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ba9b181cd30b4f1819583be24fdfeb17-Abstract-Datasets_and_Benchmarks_Track.html), Weilin Lin, Nanjun Zhou, **<u>Yanyun Wang</u>**, Jianze Li, Hui Xiong, and Li Liu†. In *39th Annual Conference on Neural Information Processing Systems*, 2025.
+- **[NeurIPS'25]** [BackdoorDM: A Comprehensive Benchmark for Backdoor Learning in Diffusion Model](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ba9b181cd30b4f1819583be24fdfeb17-Abstract-Datasets_and_Benchmarks_Track.html), Weilin Lin, Nanjun Zhou, **<u>Yanyun Wang</u>**, Jianze Li, Hui Xiong, and Li Liu<sup>†</sup>. In *39th Annual Conference on Neural Information Processing Systems*, 2025.
 
-- **[ACL'25 Main]** ["Yes, My LoRD." Guiding Language Model Extraction with Locality Reinforced Distillation](https://aclanthology.org/2025.acl-long.73/), Zi Liang, Qingqing Ye, **<u>Yanyun Wang</u>**, Sen Zhang, Yaxin Xiao, Ronghua Li, Jianliang Xu, and Haibo Hu†. In *63rd Annual Meeting of the Association for Computational Linguistics*, 2025.
+- **[ACL'25 Main]** ["Yes, My LoRD." Guiding Language Model Extraction with Locality Reinforced Distillation](https://aclanthology.org/2025.acl-long.73/), Zi Liang, Qingqing Ye, **<u>Yanyun Wang</u>**, Sen Zhang, Yaxin Xiao, Ronghua Li, Jianliang Xu, and Haibo Hu<sup>†</sup>. In *63rd Annual Meeting of the Association for Computational Linguistics*, 2025.
 
-- **[AAAI'22 Workshop]** [Efficient Adversarial Sequence Generation for RNN with Symbolic Weighted Finite Automata](https://ceur-ws.org/Vol-3087/paper_19.pdf), Mingjun Ma, Dehui Du†, Yuanhao Liu, **<u>Yanyun Wang</u>**, and Yiyang Li. In *SafeAI Workshop @ 36th AAAI Conference on Artificial Intelligence*, 2022.
+- **[AAAI'22 Workshop]** [Efficient Adversarial Sequence Generation for RNN with Symbolic Weighted Finite Automata](https://ceur-ws.org/Vol-3087/paper_19.pdf), Mingjun Ma, Dehui Du<sup>†</sup>, Yuanhao Liu, **<u>Yanyun Wang</u>**, and Yiyang Li. In *SafeAI Workshop @ 36th AAAI Conference on Artificial Intelligence*, 2022.
 
 # 📖 Educations
 - *2026.08 - Now*, Ph.D. in System Engineering, The Chinese University of Hong Kong. 
