@@ -90,6 +90,19 @@ In *IEEE/CVF International Conference on Computer Vision*, 2025.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1em;">ECAI'24 Oral</div><img src='images/Image-ECAI24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TSFool: Crafting Highly-Imperceptible Adversarial Time Series through Multi-Objective Attack](https://journals.sagepub.com/doi/abs/10.3233/FAIA240644)
+
+**<u>Yanyun Wang</u>**, Dehui Du<sup>†</sup>, Haibo Hu<sup>†</sup>, Zi Liang, Yuanhao Liu
+
+In *27th European Conference on Artificial Intelligence*, 2024.
+
+[[Poster](https://github.com/FlaAI/ywang/blob/main/files/Slides_ECAI24.pptx)] &nbsp;&nbsp; [[Code](https://github.com/FlaAI/TSFool)]
+</div>
+</div>
+
 
 ## As Co-Author:
 
