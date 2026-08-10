@@ -52,9 +52,9 @@ My research interests include AI Security and Multimodal Large Language Models. 
 
 ## As Co-Author:
 
-- **[Preprint]** Adversarial Attacks on Deep OCR Systems, Wenbo Sun, **Yanyun Wang**, Jiahao MA, Shuxin Zhuang, Rong Feng, Shiqin Tang, and Zi Liang†. 2026.
+- **[Preprint]** Adversarial Attacks on Deep OCR Systems, Wenbo Sun, **<u>Yanyun Wang</u>**, Jiahao MA, Shuxin Zhuang, Rong Feng, Shiqin Tang, and Zi Liang†. 2026.
 
-- **[Preprint]** [Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection](https://arxiv.org/abs/2605.11442), Zi Liang, Ronghua Li, **Yanyun Wang**, Qingqing Ye, and Haibo Hu†. 2026.
+- **[Preprint]** [Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection](https://arxiv.org/abs/2605.11442), Zi Liang, Ronghua Li, <u>**Yanyun Wang**</u>, Qingqing Ye, and Haibo Hu†. 2026.
 
 - **[ACMMM'26 Oral]** [PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation](https://arxiv.org/abs/2512.23994), Tianxin Xie, Wentao Lei, Kai Jiang, Guanjie Huang, Pengfei Zhang, Chunhui Zhang, Fengji Ma, Haoyu He, Han Zhang, Jiangshan He, Jinting Wang, Linghan Fang, Lufei Gao, Orkesh Ablet, Peihua Zhang, Ruolin Hu, Shengyu Li, Weilin Lin, Xiaoyang Feng, Xinyue Yang, Yan Rong, **Yanyun Wang**, Zihang Shao, Zelin Zhao, Chenxing Li, Shan Yang, Wenfu Wang, Meng Yu, Dong Yu, and Li Liu†. In *34th ACM International Conference on Multimedia*, 2026.
 
