@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yanyun Wang <br> 王彦云"
+title                    : "Yanyun Wang"
 description              : '"All human wisdom is contained in two words: Wait and Hope." ― Alexandre Dumas'
 repository               : "FlaAI/flaai.github.io/ywang"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yanyun Wang"
+  name             : "Yanyun Wang <br> 王彦云"
   avatar           : "images/me.jpg"
   bio              : "PhD Student @ The Chinese University of Hong Kong"
   location         : "Hong Kong, China"
