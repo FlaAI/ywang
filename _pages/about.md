@@ -77,6 +77,19 @@ In *IEEE International Conference on Acoustics, Speech and Signal Processing*, 2
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1em;">ICCV'25</div><img src='images/Image-ICCV25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Failure Cases Are Better Learned But Boundary Says Sorry: Facilitating Smooth Perception Change for Accuracy-Robustness Trade-Off in Adversarial Training](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Failure_Cases_Are_Better_Learned_But_Boundary_Says_Sorry_Facilitating_ICCV_2025_paper.html)
+
+**<u>Yanyun Wang</u>**, Li Liu<sup>†</sup>
+
+In *IEEE/CVF International Conference on Computer Vision*, 2025.
+
+[[Poster](https://github.com/FlaAI/ywang/blob/main/files/Poster_ICCV25.pdf)] &nbsp;&nbsp; [[Code](https://github.com/FlaAI/RPAT)]
+</div>
+</div>
+
 
 ## As Co-Author:
 
