@@ -129,8 +129,8 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 # 📖 Educations
 - <img src="images/Icon_CUHK.png" width="30" height="30"/> *2026.08 - Now*, Ph.D. in System Engineering, The Chinese University of Hong Kong. 
 - <img src="images/Icon_HKUST.png" width="30" height="30"/> *2024.09 - 2026.07*, M.Phil. in Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou).
-- *2022.09 - 2023.10*, M.Sc. in Computer Science, The University of Hong Kong.
-- *2018.09 - 2022.07*, B.Eng. in Software Engineering, East China Normal University.
+- <img src="images/Icon_HKU.png" width="30" height="30"/> *2022.09 - 2023.10*, M.Sc. in Computer Science, The University of Hong Kong.
+- <img src="images/Icon_ECNU.png" width="30" height="30"/> *2018.09 - 2022.07*, B.Eng. in Software Engineering, East China Normal University.
 
 # 💻 Internships
 - *2026.06 - 2026.08*, LLM Research Intern, [Bairong Intelligence](https://www.brgroup.com/?locale=en), Beijing.
