@@ -127,7 +127,7 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 - **[AAAI'22 Workshop]** [Efficient Adversarial Sequence Generation for RNN with Symbolic Weighted Finite Automata](https://ceur-ws.org/Vol-3087/paper_19.pdf), Mingjun Ma, Dehui Du<sup>†</sup>, Yuanhao Liu, **<u>Yanyun Wang</u>**, and Yiyang Li. In *SafeAI Workshop @ 36th AAAI Conference on Artificial Intelligence*, 2022.
 
 # 📖 Educations
-- <img src="images/Icon_CUHK.png" width="2" height="2"/> *2026.08 - Now*, Ph.D. in System Engineering, The Chinese University of Hong Kong. 
+- <img src="images/Icon_CUHK.png" width="20" height="20"/> *2026.08 - Now*, Ph.D. in System Engineering, The Chinese University of Hong Kong. 
 - *2024.09 - 2026.07*, M.Phil. in Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou).
 - *2022.09 - 2023.10*, M.Sc. in Computer Science, The University of Hong Kong.
 - *2018.09 - 2022.07*, B.Eng. in Software Engineering, East China Normal University.
