@@ -64,6 +64,19 @@ In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2026.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1em;">ICASSP'26 Oral</div><img src='images/Image-ICASSP26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adversarial Fine-Tuning on Speech Foundation Model with Vulnerable Attention Consistency Regularization for Robust Speech Recognition](https://ieeexplore.ieee.org/abstract/document/11462855)
+
+**<u>Yanyun Wang</u>**, Baoyuan Wu, Li Liu<sup>†</sup>
+
+In *IEEE International Conference on Acoustics, Speech and Signal Processing*, 2026.
+
+[[Slides](https://github.com/FlaAI/ywang/blob/main/files/Slides_ICASSP26.pptx)] &nbsp;&nbsp; [[Code](https://github.com/FlaAI/VAIR)]
+</div>
+</div>
+
 
 ## As Co-Author:
 
