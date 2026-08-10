@@ -38,7 +38,7 @@ My research interests include AI Security and Multimodal Large Language Models. 
 
 ## As 1st Author:
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 0.9em;">ICML'26</div><img src='images/Image-ICML26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 0.95em;">ICML'26</div><img src='images/Image-ICML26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](https://openreview.net/forum?id=FygaF16KNo)
@@ -51,7 +51,7 @@ In *43rd International Conference on Machine Learning*, 2026.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 0.9em;">CVPR'26 Findings</div><img src='images/Image-CVPR26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 0.95em;">CVPR'26 Findings</div><img src='images/Image-CVPR26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Alignment: Harmonizing Clean Accuracy and Adversarial Robustness in Adversarial Training](https://openaccess.thecvf.com/content/CVPR2026F/html/Wang_Robust_Alignment_Harmonizing_Clean_Accuracy_and_Adversarial_Robustness_in_Adversarial_CVPRF_2026_paper.html)
@@ -64,7 +64,7 @@ In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2026.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 0.9em;">ICASSP'26 Oral</div><img src='images/Image-ICASSP26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 0.95em;">ICASSP'26 Oral</div><img src='images/Image-ICASSP26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adversarial Fine-Tuning on Speech Foundation Model with Vulnerable Attention Consistency Regularization for Robust Speech Recognition](https://ieeexplore.ieee.org/abstract/document/11462855)
@@ -77,7 +77,7 @@ In *IEEE International Conference on Acoustics, Speech and Signal Processing*, 2
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 0.9em;">ICCV'25</div><img src='images/Image-ICCV25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 0.95em;">ICCV'25</div><img src='images/Image-ICCV25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Failure Cases Are Better Learned But Boundary Says Sorry: Facilitating Smooth Perception Change for Accuracy-Robustness Trade-Off in Adversarial Training](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Failure_Cases_Are_Better_Learned_But_Boundary_Says_Sorry_Facilitating_ICCV_2025_paper.html)
@@ -90,7 +90,7 @@ In *IEEE/CVF International Conference on Computer Vision*, 2025.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 0.9em;">ECAI'24 Oral</div><img src='images/Image-ECAI24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 0.95em;">ECAI'24 Oral</div><img src='images/Image-ECAI24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TSFool: Crafting Highly-Imperceptible Adversarial Time Series through Multi-Objective Attack](https://journals.sagepub.com/doi/abs/10.3233/FAIA240644)
