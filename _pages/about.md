@@ -51,6 +51,20 @@ In *43rd International Conference on Machine Learning*, 2026.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1em;">CVPR'26 Findings</div><img src='images/Image-CVPR26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Alignment: Harmonizing Clean Accuracy and Adversarial Robustness in Adversarial Training](https://openaccess.thecvf.com/content/CVPR2026F/html/Wang_Robust_Alignment_Harmonizing_Clean_Accuracy_and_Adversarial_Robustness_in_Adversarial_CVPRF_2026_paper.html)
+
+**<u>Yanyun Wang</u>**, Qingqing Ye, Li Liu, Zi Liang, Haibo Hu<sup>†</sup>
+
+In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 2026.
+
+[[Poster](https://github.com/FlaAI/ywang/blob/main/files/Poster_CVPR26.pdf)] &nbsp;&nbsp; [[Code](https://github.com/FlaAI/RAAT)]
+</div>
+</div>
+
+
 ## As Co-Author:
 
 - **[Preprint]** <u>Adversarial Attacks on Deep OCR Systems</u>, Wenbo Sun, **<u>Yanyun Wang</u>**, Jiahao MA, Shuxin Zhuang, Rong Feng, Shiqin Tang, and Zi Liang<sup>†</sup>. 2026.
