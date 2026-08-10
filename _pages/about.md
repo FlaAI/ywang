@@ -152,7 +152,7 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 - *2020*, Excellent Undergraduate Student, East China Normal University.
 - *2020*, First-class Scholarship, East China Normal University.
 
-# 💬 <div id="target-services">Services</div>
+# 💬 Services <div id="target-services"></div>
 - Conference Program Committee:
   - AAAI Conference on Artificial Intelligence (AAAI): 2027, 2026, 2025
 
