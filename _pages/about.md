@@ -103,6 +103,10 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 </div>
 </div>
 
+- **[Preprint]** [New Paradigm of Adversarial Training: Releasing Accuracy-Robustness Trade-Off via Dummy Class](https://arxiv.org/abs/2410.12671), **<u>Yanyun Wang</u>**, Li Liu<sup>†</sup>, Zi Liang, Yi R. Fung, Qingqing Ye, Haibo Hu. *Arxiv Preprint*, 2024.
+
+- **[SMC'23 Oral]** [Meta Pattern Concern Score: A Novel Evaluation Measure with Human Values for Multi-classifiers](https://ieeexplore.ieee.org/abstract/document/10394380), **<u>Yanyun Wang</u>**, Dehui Du<sup>†</sup>, Yuanhao Liu. In *IEEE International Conference on Systems, Man, and Cybernetics*, 2023.
+
 
 ## As Co-Author:
 
