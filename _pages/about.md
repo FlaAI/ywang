@@ -47,7 +47,7 @@ My research interests include AI Security and Multimodal Large Language Models. 
 
 In *43rd International Conference on Machine Learning*, 2026.
 
-[[Project Page](https://flaai.github.io/AIA_page/)] &nbsp;&nbsp; [[Slides](https://github.com/FlaAI/ywang/blob/main/files/Poster_ICML26.pptx)] &nbsp;&nbsp; [[Poster](https://github.com/FlaAI/ywang/blob/main/files/Poster_ICML26.pdf)] &nbsp;&nbsp; [[Code](https://github.com/FlaAI/AIA)]
+[[Project Page](https://flaai.github.io/AIA_page/)] &nbsp;&nbsp; [[Slides](https://github.com/FlaAI/ywang/blob/main/files/Slides_ICML26.pptx)] &nbsp;&nbsp; [[Poster](https://github.com/FlaAI/ywang/blob/main/files/Poster_ICML26.pdf)] &nbsp;&nbsp; [[Code](https://github.com/FlaAI/AIA)]
 </div>
 </div>
 
