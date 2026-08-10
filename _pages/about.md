@@ -43,7 +43,7 @@ My research interests include AI Security and Multimodal Large Language Models. 
 
 [Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against Large Audio Language Models](https://openreview.net/forum?id=FygaF16KNo)
 
-**<u>Yanyun Wang</u>**\*, Yu Huang\*, Zi Liang, Xixin Wu, Li Liu†
+**<u>Yanyun Wang</u>**\*, Yu Huang\*, Zi Liang, Xixin Wu, Li Liu<sup>†</sup>
 
 In *43rd International Conference on Machine Learning*, 2026.
 
