@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanyun Wang"
-description              : "xxxxx. "
+description              : '"All human wisdom is contained in two words: Wait and Hope." ― Alexandre Dumas'
 repository               : "FlaAI/flaai.github.io/ywang"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanyun Wang"
   avatar           : "images/me.png"
-  bio              : "The Chinese University of Hong Kong"
+  bio              : "PhD Student @ The Chinese University of Hong Kong"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
