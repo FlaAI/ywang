@@ -133,11 +133,11 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 - <img src="images/Icon_ECNU.png" width="30" height="30"/> *2018.09 - 2022.07*, B.Eng. in Software Engineering, East China Normal University.
 
 # 💻 Internships
-- *2026.06 - 2026.08*, LLM Research Intern, [Bairong Intelligence](https://www.brgroup.com/?locale=en), Beijing.
-- *2026.03 - 2026.06*, MLLM Data Intern, [ByteDance Seed](https://seed.bytedance.com/en/), Beijing.
-- *2023.10 - 2024.06*, Research Assistant, [Applied Security, Trust And Privacy Lab for Enterprise](https://www.astaple.com/), Hong Kong.
-- *2021.08 - 2021.11*, NLP Algorithm Intern, [Ping An Technology](https://tech.pingan.com/), Shanghai.
-- *2020.07 - 2020.08*, Software Development Intern, [Dareway Intelligent Technology](https://www.dareway.cn/#/), Jinan.
+- <img src="images/Icon_Bairong.png" width="30" height="30"/> *2026.06 - 2026.08*, LLM Research Intern, [Bairong Intelligence](https://www.brgroup.com/?locale=en), Beijing.
+- <img src="images/Icon_ByteDance.png" width="30" height="30"/> *2026.03 - 2026.06*, MLLM Data Intern, [ByteDance Seed](https://seed.bytedance.com/en/), Beijing.
+- <img src="images/Icon_ASTAPLE.png" width="30" height="30"/> *2023.10 - 2024.06*, Research Assistant, [Applied Security, Trust And Privacy Lab for Enterprise](https://www.astaple.com/), Hong Kong.
+- <img src="images/Icon_PingAn.png" width="90" height="30"/> *2021.08 - 2021.11*, NLP Algorithm Intern, [Ping An Technology](https://tech.pingan.com/), Shanghai.
+- <img src="images/Icon_Dareway.png" width="90" height="30"/> *2020.07 - 2020.08*, Software Development Intern, [Dareway Intelligent Technology](https://www.dareway.cn/#/), Jinan.
 
 # 🎖 Honors and Awards
 - *2026*, Postgraduate Studentship Award (48 months), The Chinese University of Hong Kong.
