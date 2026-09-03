@@ -114,7 +114,7 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 
 - **[Preprint]** [CAITLYN: Can LLM Agents Autonomously Synthesize Defenses against Emerging Injection Attacks?](https://arxiv.org/abs/2608.27990), Zi Liang\*, Xiaoyu Xu\*, **<u>Yanyun Wang</u>**, Minxin Du, Qingqing Ye, and Haibo Hu<sup>†</sup>. *Arxiv Preprint*, 2026.
 
-- **[Preprint]** [Adversarial Attacks on Deep OCR Systems](https://arxiv.org/abs/2608.07636), Wenbo Sun, Hongzong LI, **<u>Yanyun Wang</u>**, Jiahao MA, Shuxin Zhuang, Rong Feng, Shiqin Tang, and Zi Liang<sup>†</sup>. *Arxiv Preprint*, 2026.
+- **[Preprint]** [Adversarial Attacks on Deep OCR Systems](https://arxiv.org/abs/2608.07636), Wenbo Sun\*, Hongzong LI\*, **<u>Yanyun Wang</u>**, Jiahao MA, Shuxin Zhuang, Rong Feng, Shiqin Tang, and Zi Liang<sup>†</sup>. *Arxiv Preprint*, 2026.
 
 - **[Preprint]** [Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection](https://arxiv.org/abs/2605.11442), Zi Liang, Ronghua Li, **<u>Yanyun Wang</u>**, Qingqing Ye, and Haibo Hu<sup>†</sup>. *Arxiv Preprint*, 2026.
 
