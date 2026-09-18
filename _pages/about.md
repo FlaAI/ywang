@@ -27,14 +27,13 @@ I would always be open to discussions and potential collaborations. Please feel 
 
 
 # 🔥 News
+- *2026.09*: One paper weaponizing LLM agents for DDoS attacks against AI infrastructure accepted by NDSS'27. Congratulations to Zi 🎉
 - *2026.08*: Reported for duty at CUHK! Let's write the new story together ⭐
 - *2026.07*: Graduated from HKUST(GZ)! My sincere thanks to everyone for all the help and support, especially to my respected supervisor, Prof. Liu. Will always miss the precious two years 😭
 - *2026.07*: One paper benchmarking text-to-audio-video accepted by ACMMM'26 as Oral. Congratulations to Prof. Liu, Tianxin, and Wentao 🎉
 - *2026.05*: One paper on universal jailbreak of audio language models accepted by ICML'26. Many thanks to Prof. Liu, Prof. Wu, Yu, and Zi 🎉
 - *2026.03*: Been awarded the Lizhi Innovative Talent Scholarship! My great thanks to HKUST(GZ) Info Hub, Lizhi Group, and Prof. Liu 🙌
 - *2026.03*: One paper on accuracy-robustness trade-off in adversarial training accepted by CVPR'26 as Findings. Many thanks to Prof. Hu, Prof. Liu, Prof. Ye, and Zi 🎉
-- *2026.01*: One paper on adversarial fine-tuning of speech foundation models accepted by ICASSP'26 as Oral. Many thanks to Prof. Liu 🎉
-
 
 # 📝 Publications 
 
@@ -116,7 +115,7 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 
 - **[Preprint]** [Adversarial Attacks on Deep OCR Systems](https://arxiv.org/abs/2608.07636), Wenbo Sun\*, Hongzong LI\*, **<u>Yanyun Wang</u>**, Jiahao MA, Shuxin Zhuang, Rong Feng, Shiqin Tang, and Zi Liang<sup>†</sup>. *Arxiv Preprint*, 2026.
 
-- **[Preprint]** [Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection](https://arxiv.org/abs/2605.11442), Zi Liang, Ronghua Li, **<u>Yanyun Wang</u>**, Qingqing Ye, and Haibo Hu<sup>†</sup>. *Arxiv Preprint*, 2026.
+- **[NDSS'27]** [Can a Single Message Paralyze the AI Infrastructure? The Rise of AbO-DDoS Attacks through Targeted Mobius Injection](https://arxiv.org/abs/2605.11442), Zi Liang, Ronghua Li, **<u>Yanyun Wang</u>**, Qingqing Ye, and Haibo Hu<sup>†</sup>. In *Network and Distributed System Security Symposium*, 2027.
 
 - **[ACMMM'26 Oral]** [PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation](https://arxiv.org/abs/2512.23994), Tianxin Xie, Wentao Lei, Kai Jiang, Guanjie Huang, Pengfei Zhang, Chunhui Zhang, Fengji Ma, Haoyu He, Han Zhang, Jiangshan He, Jinting Wang, Linghan Fang, Lufei Gao, Orkesh Ablet, Peihua Zhang, Ruolin Hu, Shengyu Li, Weilin Lin, Xiaoyang Feng, Xinyue Yang, Yan Rong, **<u>Yanyun Wang</u>**, Zihang Shao, Zelin Zhao, Chenxing Li, Shan Yang, Wenfu Wang, Meng Yu, Dong Yu, and Li Liu<sup>†</sup>. In *34th ACM International Conference on Multimedia*, 2026.
 
