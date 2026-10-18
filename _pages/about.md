@@ -160,12 +160,12 @@ In *27th European Conference on Artificial Intelligence*, 2024.
   - AAAI Conference on Artificial Intelligence (AAAI): 2027, 2026, 2025
 
 - Conference Reviewer: 
+  - International Conference on Learning Representations (ICLR): 2027, 2026
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2026, 2025, 2024
   - ACM International Conference on Multimedia (ACMMM): 2026
   - IEEE/CVF International Conference on Computer Vision (ICCV): 2025
   - European Conference on Computer Vision (ECCV): 2026
   - British Machine Vision Conference (BMVC): 2026
-  - RSI Workshop @ International Conference on Learning Representations (ICLR): 2026
 
 - Journal Reviewer:
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
