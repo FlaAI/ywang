@@ -129,7 +129,7 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 
 - **[AAAI'22 Workshop]** [Efficient Adversarial Sequence Generation for RNN with Symbolic Weighted Finite Automata](https://ceur-ws.org/Vol-3087/paper_19.pdf), Mingjun Ma, Dehui Du<sup>†</sup>, Yuanhao Liu, **<u>Yanyun Wang</u>**, and Yiyang Li. In *SafeAI Workshop @ 36th AAAI Conference on Artificial Intelligence*, 2022.
 
-# 📖 Educations
+# 🎓 Educations
 - <img src="images/Icon_CUHK.png" width="30" height="30"/> *2026.08 - Now*, Ph.D. in System Engineering, The Chinese University of Hong Kong. 
 - <img src="images/Icon_HKUST.png" width="30" height="30"/> *2024.09 - 2026.07*, M.Phil. in Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou).
 - <img src="images/Icon_HKU.png" width="30" height="30"/> *2022.09 - 2023.10*, M.Sc. in Computer Science, The University of Hong Kong.
@@ -142,7 +142,7 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 - <img src="images/Icon_PingAn.png" width="69" height="23"/> *2021.08 - 2021.11*, NLP Algorithm Intern, [Ping An Technology](https://tech.pingan.com/), Shanghai.
 - <img src="images/Icon_Dareway.png" width="57" height="19"/> *2020.07 - 2020.08*, Software Development Intern, [Dareway Intelligent Technology](https://www.dareway.cn/#/), Jinan.
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2026*, Postgraduate Studentship Award (48 months), The Chinese University of Hong Kong.
 - *2026*, Lizhi Innovative Talent Scholarship, The Hong Kong University of Science and Technology (Guangzhou) & Lizhi Group.
 - *2025*, Second-Class Award, The 15th Guangdong-Hong Kong-Macao Conference on Image and Graphics.
@@ -155,7 +155,11 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 - *2020*, Excellent Undergraduate Student, East China Normal University.
 - *2020*, First-class Scholarship, East China Normal University.
 
-# 💬 Services
+# 💬 Talks
+- *2026.10*, _Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against LALMs_, Security and Privacy in Speech Communication (SPSC) Webinar, International Speech Communication Association (ISCA).
+- *2026.10*, _Red Bird · Envision to Future: PhD Program Preparation and Experience Sharing Series - Hong Kong Session_, The Hong Kong University of Science and Technology (Guangzhou).
+
+# 🎈 Services
 - Conference Program Committee:
   - AAAI Conference on Artificial Intelligence (AAAI): 2027, 2026, 2025
 
