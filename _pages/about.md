@@ -156,8 +156,8 @@ In *27th European Conference on Artificial Intelligence*, 2024.
 - *2020*, First-class Scholarship, East China Normal University.
 
 # 💬 Talks
-- *2026.10*, _Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against LALMs_, Security and Privacy in Speech Communication (SPSC) Webinar, International Speech Communication Association (ISCA).
-- *2026.10*, _Red Bird · Envision to Future: PhD Program Preparation and Experience Sharing Series - Hong Kong Session_, The Hong Kong University of Science and Technology (Guangzhou).
+- *2026.10*, _"Acoustic Interference: A New Paradigm Weaponizing Acoustic Latent Semantic for Universal Jailbreak against LALMs"_, Security and Privacy in Speech Communication (SPSC) Webinar, International Speech Communication Association (ISCA).
+- *2026.10*, _"Red Bird · Envision to Future: PhD Program Preparation and Experience Sharing Series - Hong Kong Session"_, The Hong Kong University of Science and Technology (Guangzhou).
 
 # 🎈 Services
 - Conference Program Committee:
